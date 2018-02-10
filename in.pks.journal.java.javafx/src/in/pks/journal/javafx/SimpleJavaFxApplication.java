@@ -6,6 +6,9 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
+/**
+ * It is important that your JavaFx application should extend javafx.application.Application class.
+ */
 public class SimpleJavaFxApplication extends Application {
 
     @Override

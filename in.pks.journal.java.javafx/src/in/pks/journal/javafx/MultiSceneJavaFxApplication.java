@@ -6,7 +6,6 @@ import javafx.scene.control.Label;
 import javafx.scene.control.Menu;
 import javafx.scene.control.MenuBar;
 import javafx.scene.control.MenuItem;
-import javafx.scene.layout.GridPane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
@@ -17,8 +16,8 @@ public class MultiSceneJavaFxApplication extends Application {
     private Scene scene1;
     private Scene scene2;
     private final MenuBar menuBar = new MenuBar();
-    boolean isInitializedMenu = false;
-    ReentrantLock LOCK = new ReentrantLock();
+    private boolean isInitializedMenu = false;
+    private ReentrantLock LOCK = new ReentrantLock();
 
     @Override
     public void start(Stage primaryStage) throws Exception {

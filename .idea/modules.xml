@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExploreJava.iml" filepath="$PROJECT_DIR$/ExploreJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/in.pks.journal.java.aop/in.pks.journal.java.aop.iml" filepath="$PROJECT_DIR$/in.pks.journal.java.aop/in.pks.journal.java.aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/in.pks.journal.java.concurrency/in.pks.journal.java.concurrency.iml" filepath="$PROJECT_DIR$/in.pks.journal.java.concurrency/in.pks.journal.java.concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/in.pks.journal.java.datastructure/in.pks.journal.java.datastructure.iml" filepath="$PROJECT_DIR$/in.pks.journal.java.datastructure/in.pks.journal.java.datastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/in.pks.journal.java.io/in.pks.journal.java.io.iml" filepath="$PROJECT_DIR$/in.pks.journal.java.io/in.pks.journal.java.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/in.pks.journal.java.javafx/in.pks.journal.java.javafx.iml" filepath="$PROJECT_DIR$/in.pks.journal.java.javafx/in.pks.journal.java.javafx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/in.pks.journal.java.stream/in.pks.journal.java.stream.iml" filepath="$PROJECT_DIR$/in.pks.journal.java.stream/in.pks.journal.java.stream.iml" />
+    </modules>
+  </component>
+</project>

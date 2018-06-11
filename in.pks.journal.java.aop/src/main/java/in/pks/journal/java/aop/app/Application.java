@@ -16,8 +16,11 @@ public class Application {
             SimpleDTO dto = new SimpleDTO();
             dto.setDate(LocalDate.now());
             dto.setPlace("BLR, India");
-            LocalDate localDate = util.dateAfterDays(dto, 2);
+            LocalDate localDate = util.dateAfterDays(dto, null);
             System.out.println(localDate);
+
+            //util.printDate(dto);
+            //util.printDate(null);
 
         }catch (Exception e){
             e.printStackTrace();

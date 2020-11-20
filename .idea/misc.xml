@@ -6,6 +6,11 @@
         <option value="$PROJECT_DIR$/in.pks.journal.java.concurrency/pom.xml" />
         <option value="$PROJECT_DIR$/in.pks.journal.java.javafx/pom.xml" />
         <option value="$PROJECT_DIR$/in.pks.journal.java.aop/pom.xml" />
+        <option value="$PROJECT_DIR$/in.pks.journal.java.log4j2/pom.xml" />
+        <option value="$PROJECT_DIR$/in.pks.journal.java.io/pom.xml" />
+        <option value="$PROJECT_DIR$/in.pks.journal.java.spring/pom.xml" />
+        <option value="$PROJECT_DIR$/in.pks.journal.java.springcache/pom.xml" />
+        <option value="$PROJECT_DIR$/EHCache3WithSpringBoot/pom.xml" />
       </list>
     </option>
   </component>

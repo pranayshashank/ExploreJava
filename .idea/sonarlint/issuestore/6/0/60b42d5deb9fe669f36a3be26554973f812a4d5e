@@ -1,0 +1,14 @@
+
+u
+java:S1104"XMake numberOfRows a static final constant or non-public and provide accessors if needed.(ζ§¤8ρι‚Ν.
+x
+java:S1104"[Make numberOfColumns a static final constant or non-public and provide accessors if needed.(γ•¤8ρι‚Ν.
+{
+java:S1104	"YMake timeToProcess a static final constant or non-public and provide accessors if needed.(αε¤«ϋÿÿÿÿ8ρι‚Ν.
+q
+java:S1104
+"TMake workbook a static final constant or non-public and provide accessors if needed.(έρ¨΄8ρι‚Ν.
+t
+java:S1104"WMake curOutSheet a static final constant or non-public and provide accessors if needed.(‰χύφ8ρι‚Ν.
+u
+java:S1104"XMake curSheetName a static final constant or non-public and provide accessors if needed.(ώ…8ρι‚Ν.

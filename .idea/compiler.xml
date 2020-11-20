@@ -6,15 +6,30 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="in.pks.journal.java.aop" />
-        <module name="in.pks.journal.java.concurrency" />
-        <module name="in.pks.journal.java.javafx" />
+        <module name="EHCache2WithSpringBoot" />
+        <module name="IO" />
+        <module name="Spring" />
+        <module name="JavaFx" />
+        <module name="Spring-AOP" />
+        <module name="EHCache3WithSpringBoot" />
+        <module name="Concurrency" />
+        <module name="Log4j2" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
-      <module name="in.pks.journal.java.aop" target="1.8" />
-      <module name="in.pks.journal.java.concurrency" target="1.5" />
-      <module name="in.pks.journal.java.javafx" target="1.5" />
+    <bytecodeTargetLevel target="8">
+      <module name="Concurrency" target="8" />
+      <module name="EHCache2WithSpringBoot" target="8" />
+      <module name="EHCache3WithSpringBoot" target="8" />
+      <module name="IO" target="8" />
+      <module name="JavaFx" target="8" />
+      <module name="Log4j2" target="8" />
+      <module name="Spring" target="8" />
+      <module name="Spring-AOP" target="8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="EHCache2WithSpringBoot" options="-parameters" />
+    </option>
   </component>
 </project>

@@ -1,0 +1,6 @@
+app:
+  name: Spring Lessons
+  version: 1.0
+
+#spring:
+#  profiles: uat2

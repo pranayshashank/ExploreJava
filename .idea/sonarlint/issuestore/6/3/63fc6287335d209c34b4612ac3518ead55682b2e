@@ -1,0 +1,10 @@
+
+>
+java:S1170"!Make this final field static too.(ªÓŸ–8êµÅ´İ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(é€•Úøÿÿÿÿ8ÍÕŒ¶İ.
+Z
+java:S1128"8Remove this unused import 'javax.annotation.PreDestroy'.(ˆÇÜÆüÿÿÿÿ8Â’¤¶İ.
+X
+java:S1128";Remove this unused import 'javax.annotation.PostConstruct'.(›ÅÁ8Â’¤¶İ.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(éÉçÅşÿÿÿÿ8Â’¤¶İ.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ªüß¾8Â’¤¶İ.

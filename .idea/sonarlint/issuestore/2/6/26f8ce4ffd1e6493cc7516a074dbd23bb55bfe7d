@@ -1,0 +1,20 @@
+
+¡
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôÇ´êıÿÿÿÿ8ÏËğ¿Î.
+u
+java:S3008"[Rename this field "WHITESPACE_CHARS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(• Á8­í¿ÀÎ.
+G
+java:S1068"'Remove this unused "map" private field.(“„ª©üÿÿÿÿ8‰ä×ÀÎ.
+_
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(Å³¥8ƒïò¿Î.
+X
+java:S1854"8Remove this useless assignment to local variable "json".(ÄÇîøÿÿÿÿ8‰ä×ÀÎ.
+I
+java:S1481")Remove this unused "json" local variable.(ÄÇîøÿÿÿÿ8‰ä×ÀÎ.
+g
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(®êÈÿÿÿÿÿ8ö­ŞÀÎ.
+f
+java:S1128"FRemove this unused import 'java.util.concurrent.atomic.AtomicBoolean'.(§­‹¼üÿÿÿÿ8Š­ÛÀÎ.
+6
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8ö­ŞÀÎ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8‰ä×ÀÎ.

@@ -1,0 +1,15 @@
+
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(éÉçÅşÿÿÿÿ8ê¾Ñ³İ.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(šÂğ‡úÿÿÿÿ8ê¾Ñ³İ.
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(ªüß¾8ê¾Ñ³İ.
+
+java:S1130E"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(¯¶…œ8ê¾Ñ³İ.
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(¥­¶ÿÿÿÿÿ8ê¾Ñ³İ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢¯—›8×çÿµİ.
+C
+java:S1170"!Make this final field static too.(ë”’øÿÿÿÿ8ê¾Ñ³İ.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(õ¸Ößùÿÿÿÿ8ê¾Ñ³İ.
+
+java:S11308"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(ú±œ8ê¾Ñ³İ.
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(Í–ª8ê¾Ñ³İ.
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(é€•Úøÿÿÿÿ8ê¾Ñ³İ.

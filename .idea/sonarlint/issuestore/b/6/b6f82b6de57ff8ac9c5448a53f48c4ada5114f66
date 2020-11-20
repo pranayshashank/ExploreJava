@@ -1,0 +1,9 @@
+
+_squid:UselessImportCheck"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8—Ò¹ö-
+[squid:UselessImportCheck"0Remove this unused import 'javafx.scene.Parent'.(²ä¡È8ò°Â¹ö-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã˜‘¹ıÿÿÿÿ8¬íÜ¸ö-
+jsquid:S00112)"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ş¶¹ö-
+esquid:UselessImportCheck"5Remove this unused import 'javafx.scene.layout.Pane'.(êÄƒÄşÿÿÿÿ8É®Õ¹ö-
+Jsquid:S1602",Remove useless curly braces around statement(ÁÛ8¬íÜ¸ö-
+Qsquid:S1611"3Remove the parentheses around the "event" parameter(ÁÛ8¬íÜ¸ö-

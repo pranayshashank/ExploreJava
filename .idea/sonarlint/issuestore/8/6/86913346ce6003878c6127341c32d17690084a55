@@ -1,0 +1,14 @@
+
+G
+java:S1612",Replace this lambda with a method reference.(è¶…Ğ8ûõ·€Í.
+G
+java:S1602",Remove useless curly braces around statement(è¶…Ğ8ûõ·€Í.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÆ‰šúÿÿÿÿ8ûõ·€Í.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷ñÏÖ8ûõ·€Í.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(“»Ø,8ûõ·€Í.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜíöÀ8ûõ·€Í.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(âèñ8ûõ·€Í.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜“¦ä8ûõ·€Í.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÆì‡8ûõ·€Í.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œÿ´™8ûõ·€Í.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(À“Íæùÿÿÿÿ8ûõ·€Í.

@@ -1,0 +1,16 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×éŒª8³–î‚Í.
+J
+java:S3740"/Provide the parametrized type for this generic.(ëƒ»8³–î‚Í.
+J
+java:S1068"*Remove this unused "output" private field.(¥¡ı±øÿÿÿÿ8³–î‚Í.
+S
+java:S2755"3Disable access to external entities in XML parsing.(Õ“ÿøÿÿÿÿ8³–î‚Í.
+h
+java:S1128"HRemove this unused import 'org.openxml4j.exceptions.OpenXML4JException'.(Öç×‰úÿÿÿÿ8³–î‚Í.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö¸º“8³–î‚Í.
+O
+java:S3740"/Provide the parametrized type for this generic.(›ÏÜìúÿÿÿÿ8³–î‚Í.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Èüø¢øÿÿÿÿ8³–î‚Í.
+D
+java:S1068")Remove this unused "clazz" private field.(ëƒ»8³–î‚Í.

@@ -1,0 +1,6 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã˜‘¹ıÿÿÿÿ8“«¤¹ö-
+{squid:S1488%"]Immediately return this expression instead of assigning it to the temporary variable "scene".(§åœ‹8“«¤¹ö-
+Jsquid:S1602",Remove useless curly braces around statement(ÁÛ8“«¤¹ö-
+Qsquid:S1611"3Remove the parentheses around the "event" parameter(ÁÛ8“«¤¹ö-

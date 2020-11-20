@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EHCache2WithSpringBoot/EHCache2WithSpringBoot.iml" filepath="$PROJECT_DIR$/EHCache2WithSpringBoot/EHCache2WithSpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EHCache3WithSpringBoot/EHCache3WithSpringBoot.iml" filepath="$PROJECT_DIR$/EHCache3WithSpringBoot/EHCache3WithSpringBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExploreJava.iml" filepath="$PROJECT_DIR$/ExploreJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/in.pks.journal.java.aop/in.pks.journal.java.aop.iml" filepath="$PROJECT_DIR$/in.pks.journal.java.aop/in.pks.journal.java.aop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/in.pks.journal.java.concurrency/in.pks.journal.java.concurrency.iml" filepath="$PROJECT_DIR$/in.pks.journal.java.concurrency/in.pks.journal.java.concurrency.iml" />
-      <module fileurl="file://$PROJECT_DIR$/in.pks.journal.java.datastructure/in.pks.journal.java.datastructure.iml" filepath="$PROJECT_DIR$/in.pks.journal.java.datastructure/in.pks.journal.java.datastructure.iml" />
-      <module fileurl="file://$PROJECT_DIR$/in.pks.journal.java.io/in.pks.journal.java.io.iml" filepath="$PROJECT_DIR$/in.pks.journal.java.io/in.pks.journal.java.io.iml" />
-      <module fileurl="file://$PROJECT_DIR$/in.pks.journal.java.javafx/in.pks.journal.java.javafx.iml" filepath="$PROJECT_DIR$/in.pks.journal.java.javafx/in.pks.journal.java.javafx.iml" />
-      <module fileurl="file://$PROJECT_DIR$/in.pks.journal.java.stream/in.pks.journal.java.stream.iml" filepath="$PROJECT_DIR$/in.pks.journal.java.stream/in.pks.journal.java.stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFx/JavaFx.iml" filepath="$PROJECT_DIR$/JavaFx/JavaFx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Log4j2/Log4j2.iml" filepath="$PROJECT_DIR$/Log4j2/Log4j2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Spring.iml" filepath="$PROJECT_DIR$/Spring/Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-AOP/Spring-AOP.iml" filepath="$PROJECT_DIR$/Spring-AOP/Spring-AOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
     </modules>
   </component>
 </project>

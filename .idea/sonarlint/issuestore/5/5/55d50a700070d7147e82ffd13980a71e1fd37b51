@@ -1,0 +1,75 @@
+
+U
+java:S1161":Add the "@Override" annotation above this method signature(çªú—8Õ„çÍ.
+V
+java:S1854";Remove this useless assignment to local variable "thisStr".(»Â¡‘8Õ„çÍ.
+[
+java:S1854";Remove this useless assignment to local variable "thisStr".(›–øÿÿÿÿ8Õ„çÍ.
+P
+java:S1854"5Remove this useless assignment to local variable "r".(ÿÑÚÌ8Õ„çÍ.
+^
+java:S2259"CA "NullPointerException" could be thrown; "value" is nullable here.(Ÿ·œ8Õ„çÍ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Àœş8Õ„çÍ.
+C
+java:S1068"(Remove this unused "list" private field.(Ûø‹·8Õ„çÍ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¿œ³úÿÿÿÿ8Õ„çÍ.
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(çªú—8Õ„çÍ.
+t
+java:S1450"TRemove the "sqref" field and declare it as a local variable in the relevant methods.(œ–ì‹úÿÿÿÿ8Õ„çÍ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’‹†°8Õ„çÍ.
+C	java:S108")Either remove or fill this block of code.(ùÊÎÜ8Õ„çÍ.
+Z
+java:S1161":Add the "@Override" annotation above this method signature(Ğòšøÿÿÿÿ8Õ„çÍ.
+[
+java:S1854";Remove this useless assignment to local variable "thisStr".(íë ªøÿÿÿÿ8Õ„çÍ.
+^
+java:S2259"CA "NullPointerException" could be thrown; "value" is nullable here.(ùßÀ†8Õ„çÍ.
+R
+java:S1068"2Remove this unused "minColumnCount" private field.(‚èãŞşÿÿÿÿ8Õ„çÍ.
+V
+java:S1854";Remove this useless assignment to local variable "thisStr".(’š¿8Õ„çÍ.
+A	java:S131""Add a default case to this switch.(øÀïıÿÿÿÿ8Õ„çÍ.
+R
+java:S1874"2Remove this use of "getEntryAt"; it is deprecated.(ÇÇúûÿÿÿÿ8Õ„çÍ.
+I
+java:S1068")Remove this unused "sqref" private field.(œ–ì‹úÿÿÿÿ8Õ„çÍ.
+^
+java:S2259"CA "NullPointerException" could be thrown; "value" is nullable here.(úØ—ë8Õ„çÍ.
+V
+java:S1854";Remove this useless assignment to local variable "thisStr".(›Í¬8Õ„çÍ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ™Üşÿÿÿÿ8Õ„çÍ.
+U
+java:S1854";Remove this useless assignment to local variable "thisStr".(ğËº]8Õ„çÍ.
+c
+java:S2259"CA "NullPointerException" could be thrown; "value" is nullable here.(›–øÿÿÿÿ8Õ„çÍ.
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¦”Íşÿÿÿÿ8Õ„çÍ.
+U
+java:S1161":Add the "@Override" annotation above this method signature(¼–±Ê8Õ„çÍ.
+A
+java:S1481"&Remove this unused "r" local variable.(ÿÑÚÌ8Õ„çÍ.
+w
+java:S1450"WRemove the "dataType" field and declare it as a local variable in the relevant methods.(¾è²¨ÿÿÿÿÿ8Õ„çÍ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Õ„çÍ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥·¿Ú8Õ„çÍ.
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¼–±Ê8Õ„çÍ.
+V
+java:S1854";Remove this useless assignment to local variable "thisStr".(ÜÈ·¬8Õ„çÍ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§¼á˜8Õ„çÍ.
+J
+java:S3740"/Provide the parametrized type for this generic.(Ûø‹·8Õ„çÍ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÎØÀêúÿÿÿÿ8Õ„çÍ.
+G
+java:S1481",Remove this unused "thisStr" local variable.(¼ÊÏ8Õ„çÍ.
+L
+java:S1068",Remove this unused "dataType" private field.(¾è²¨ÿÿÿÿÿ8Õ„çÍ.
+^
+java:S2259"CA "NullPointerException" could be thrown; "value" is nullable here.(¸¹Œæ8Õ„çÍ.
+k
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(øÀïıÿÿÿÿ8Õ„çÍ.
+c
+java:S2259"CA "NullPointerException" could be thrown; "value" is nullable here.(æÃ÷Ïùÿÿÿÿ8Õ„çÍ.
+[
+java:S1854";Remove this useless assignment to local variable "thisStr".(æÃ÷Ïùÿÿÿÿ8Õ„çÍ.

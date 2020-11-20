@@ -1,0 +1,14 @@
+
+W
+java:S1874"7Remove this use of "getCellTypeEnum"; it is deprecated.(ƒŒ’ªýÿÿÿÿ8ß•†‚Í.
+H
+java:S1144".Remove this unused private "readFile2" method.(å‰ÔD8Ÿ“ð‚Í.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢àÙø8ý¯„‚Í.
+¥
+java:S1130"„Remove the declaration of thrown exception 'org.openxml4j.exceptions.OpenXML4JException', as it cannot be thrown from method's body.(ó”ß”ûÿÿÿÿ8ý¯„‚Í.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ëâ¼Œ8ý¯„‚Í.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÛàÔÉþÿÿÿÿ8ý¯„‚Í.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ý¯„‚Í.
+R
+java:S1874"7Remove this use of "getCellTypeEnum"; it is deprecated.(íûÞê8ß•†‚Í.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(·íãñýÿÿÿÿ8ý¯„‚Í.
